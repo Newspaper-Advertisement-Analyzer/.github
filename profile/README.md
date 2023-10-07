@@ -12,7 +12,7 @@ Welcome to the Newspaper Advertisement Analyzer! This project is designed to ana
 
 ## Demo
 
-You can try out the Newspaper Advertisement Analyzer by visiting our [Demo Site](https://www.example.com/demo). 
+You can try out the Newspaper Advertisement Analyzer by visiting our [Demo Site](https://newspaper-analyzer.web.app). 
 
 ## Usage
 
